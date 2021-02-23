@@ -9,11 +9,6 @@
 
   <h3 align="center">Notepad Web API with Token Authentication</h3>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`trrakee`, `notepadWebAPI`, ``, `tas2124@gmail.com`, `Notepad Web API with Token Authentication`, `project_description`
-
-
 ### Built With
 
 * [C# .NET]()

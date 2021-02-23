@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Trrakee\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Trrakee\\.nuget\\packages"
+    ]
+  }
+}
